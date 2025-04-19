@@ -1,0 +1,42 @@
+{
+  "files": {
+    "main.css": "/static/css/main.742bd46d.css",
+    "main.js": "/static/js/main.a3247e5b.js",
+    "static/js/453.46ffd721.chunk.js": "/static/js/453.46ffd721.chunk.js",
+    "static/media/mission.png": "/static/media/mission.703e9bcd5828b8ea5a02.png",
+    "static/media/image1.png": "/static/media/image1.c5a6df8563faf9b03bbd.png",
+    "static/media/Proimg.png": "/static/media/Proimg.d46f902e6e4b8d939f3a.png",
+    "static/media/about2.png": "/static/media/about2.eb1c0f70caeac900425e.png",
+    "static/media/Info.png": "/static/media/Info.3a5f983b4b0577e7bdea.png",
+    "static/media/about1.png": "/static/media/about1.7899b48a5ebb6b224604.png",
+    "static/media/Contactimg.png": "/static/media/Contactimg.ab057ba4be526ce2bb4f.png",
+    "static/media/intro1.png": "/static/media/intro1.725de301676c0b19fdb1.png",
+    "static/media/logo5.png": "/static/media/logo5.c314b146a51126d3a48c.png",
+    "static/media/polythin.png": "/static/media/polythin.f3a78e06966282c2d7fd.png",
+    "static/media/youtube.png": "/static/media/youtube.0ca493252af38fb4532e.png",
+    "static/media/logo6.png": "/static/media/logo6.c184dbd5d3901324b5ea.png",
+    "static/media/logo3.png": "/static/media/logo3.c1beb9add2478e59c43b.png",
+    "static/media/logo1.png": "/static/media/logo1.99420992555e128520ec.png",
+    "static/media/Info3.png": "/static/media/Info3.0bd76ecd17b56f678d58.png",
+    "static/media/facebook.png": "/static/media/facebook.99a1b9626d67aed3e201.png",
+    "static/media/Info5.png": "/static/media/Info5.33812ea9ddd69e84ca7b.png",
+    "static/media/nontoxic.png": "/static/media/nontoxic.008c6a1e9bbb39c6aded.png",
+    "static/media/Info4.png": "/static/media/Info4.47ffa89b31cb912c7097.png",
+    "static/media/logo2.png": "/static/media/logo2.f352673a8384aae0f25d.png",
+    "static/media/Info2.png": "/static/media/Info2.39dbf6a967024e6fe685.png",
+    "static/media/insta.png": "/static/media/insta.6deb69a548e4882ccaf1.png",
+    "static/media/logo4.png": "/static/media/logo4.7207000206ca746f7dc3.png",
+    "static/media/watshap.png": "/static/media/watshap.efdfbd20450451114870.png",
+    "static/media/recyclable.png": "/static/media/recyclable.5a6a7ceca659e608988f.png",
+    "static/media/100n.png": "/static/media/100n.6387bf76753eb0065a56.png",
+    "static/media/bio.png": "/static/media/bio.717a09d5d2df6ddfbcc3.png",
+    "index.html": "/index.html",
+    "main.742bd46d.css.map": "/static/css/main.742bd46d.css.map",
+    "main.a3247e5b.js.map": "/static/js/main.a3247e5b.js.map",
+    "453.46ffd721.chunk.js.map": "/static/js/453.46ffd721.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.742bd46d.css",
+    "static/js/main.a3247e5b.js"
+  ]
+}
